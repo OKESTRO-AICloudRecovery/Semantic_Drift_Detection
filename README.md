@@ -14,3 +14,11 @@
   - *pushpins*, *screw_bag*: CLIP
   - *splicing_connectors*, *breakfast_box*, *juice_bottle*: DINOv2
 - Add evaluation scripts for standard visual anomaly detection benchmarks, including **MVTecAD** and **VisA**.
+
+
+## Dependencies and References
+
+This project is built on top of the `anomalib` framework.
+For the original implementation and related utilities, please refer to:
+
+- https://github.com/zhang0jhon/LogSAD/tree/master/anomalib
