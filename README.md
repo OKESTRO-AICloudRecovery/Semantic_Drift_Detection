@@ -1,4 +1,4 @@
-<img width="1761" height="994" alt="image" src="https://github.com/user-attachments/assets/353d01cd-2e00-4b86-ab7f-cca772a64ded" /># Semantic_Drift_Detection
+# Semantic_Drift_Detection
 [CVPR'25] LogSAD: Towards Training-free Anomaly Detection with Vision and Language Foundation Models
 
 ## Main Method 
