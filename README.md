@@ -2,6 +2,8 @@
 [CVPR'25] LogSAD: Towards Training-free Anomaly Detection with Vision and Language Foundation Models
 
 ## Main Method 
+<img width="1812" height="1023" alt="image" src="https://github.com/user-attachments/assets/d0834c3d-e56b-483d-a32b-5105d57c4683" />
+
 The proposed framework consists of three matching components:
 - **Patch Matching**
 - **Interest Matching**
