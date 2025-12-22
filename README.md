@@ -7,7 +7,7 @@
 
 ## TODO
 - Replace hard-coded, product-specific inspection codes inside the histogram functions with a more general and configurable implementation.
-- Implement the match-of-thought procedure for semantic consistency evaluation.
+- Implement the **match-of-thought** procedure for semantic consistency evaluation.
 - Unify backbone selection across product classes in patch matching.
 
   Currently:
