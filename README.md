@@ -19,9 +19,9 @@ Composition matching is implemented in the `histogram` function of `model_ensemb
 - [ ] Implement the **match-of-thought** procedure for semantic consistency evaluation.
 - [ ] Unify backbone selection across product classes in patch matching.
 
-  Currently:
-  - *pushpins*, *screw_bag*: CLIP
-  - *splicing_connectors*, *breakfast_box*, *juice_bottle*: DINOv2
+  - Currently:
+    - *pushpins*, *screw_bag*: CLIP
+    - *splicing_connectors*, *breakfast_box*, *juice_bottle*: DINOv2
 - [ ] Add evaluation scripts for standard visual anomaly detection benchmarks, including **MVTecAD** and **VisA**.
 
 
