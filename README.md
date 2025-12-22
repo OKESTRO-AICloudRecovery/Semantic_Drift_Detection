@@ -2,6 +2,13 @@
 [CVPR'25] LogSAD: Towards Training-free Anomaly Detection with Vision and Language Foundation Models
 
 ## Main Method 
+The proposed framework consists of three matching components:
+- **Patch Matching**
+- **Interest Matching**
+- **Composition Matching**
+
+Patch matching and interest matching are implemented in the `forward_one_sample` function of `model_ensemble_few_shot.py`.
+Composition matching is implemented in the `histogram` function of `model_ensemble_few_shot.py`.
 
 
 ## TODO
