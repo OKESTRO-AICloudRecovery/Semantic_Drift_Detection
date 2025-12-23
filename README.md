@@ -19,10 +19,6 @@ Composition matching is implemented in the `histogram` function of `model_ensemb
 - [ ] Implement the **match-of-thought** procedure for semantic consistency evaluation.
 - [ ] Unify backbone selection across product classes in patch matching.
 
-- [ ] Replace hard-coded, product-specific inspection codes inside the histogram functions with a more general implementation.
-- [ ] Implement the **match-of-thought** procedure for semantic consistency evaluation.
-- [ ] Unify backbone selection across product classes in patch matching.
-
 
   - Currently:
     - *pushpins*, *screw_bag*: CLIP
