@@ -7,7 +7,6 @@ import importlib.util
 import torch
 import logging
 from torch import nn
-
 # NOTE: The following MVTecLoco import is not available in anomalib v1.0.1.
 # It will be available in v1.1.0 which will be released on April 29th, 2024.
 # If you are using an earlier version of anomalib, you could install anomalib
