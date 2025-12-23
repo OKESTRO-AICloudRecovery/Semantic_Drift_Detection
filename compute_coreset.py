@@ -18,13 +18,6 @@ from anomalib.metrics.auroc import AUROC
 from tabulate import tabulate
 import numpy as np
 
-
-
-
-
-
-
-
 # FEW_SHOT_SAMPLES = [0, 1, 2, 3]
 
 def parse_args() -> argparse.Namespace:
