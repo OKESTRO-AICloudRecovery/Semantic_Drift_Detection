@@ -4,7 +4,7 @@
 ## Main Method 
 
 
-The proposed framework consists of three matching components:
+The proposed framework consists of three matching components: 
 - **Patch Matching**
 - **Interest Matching**
 - **Composition Matching**
